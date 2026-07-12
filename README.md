@@ -85,15 +85,6 @@ Este projeto foi desenvolvido com foco em aprendizado de lógica de programaçã
 
 ---
 
-## 🚀 Melhorias futuras
-
-* Separação do código em módulos
-* Criação de API REST
-* Integração com banco de dados
-* Interface web para entrada de dados
-
----
-
 ## 👨‍💻 Autor
 
 Pedro Benevides
